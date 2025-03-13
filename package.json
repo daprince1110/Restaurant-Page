@@ -1,0 +1,23 @@
+{
+  "name": "restpage",
+  "version": "1.0.0",
+  "description": "odin project restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daprince1110/Restaurant-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daprince1110/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/daprince1110/Restaurant-Page#readme",
+  "dependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
